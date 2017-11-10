@@ -8,6 +8,10 @@ public class FirstController {
         firstDemo();
     }
 
+    public static void secondDemo(){
+        System.out.println("弱水三千只取一瓢");
+    }
+
     public static void firstDemo(){
         System.out.println("有志者事竟成，破釜沉舟百二秦川终归楚");
         System.out.println("苦心人天不负，卧薪尝胆三千越夹可吞吴");
