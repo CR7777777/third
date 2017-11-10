@@ -15,4 +15,8 @@ public class FirstController {
     public static int sum(){
         return 1;
     }
+    public static String get(){
+        return "11";
+    }
+
 }
