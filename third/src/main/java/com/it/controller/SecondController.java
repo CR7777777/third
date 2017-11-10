@@ -10,4 +10,6 @@ public class SecondController {
     public static void write(){
         System.out.println("弱水三千只取一瓢！");
     }
+
+
 }
